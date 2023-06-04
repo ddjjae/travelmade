@@ -1,4 +1,6 @@
 @import "reset.css";
 @import "main.css";
+@import "slider.css";
 body {
+  /* background-color: white; */
 }
